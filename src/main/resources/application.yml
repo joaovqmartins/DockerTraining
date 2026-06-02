@@ -1,1 +1,3 @@
-spring.application.name=DockerTraining
+spring:
+  application:
+    name: DockerTraining
